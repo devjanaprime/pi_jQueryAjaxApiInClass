@@ -10,4 +10,4 @@ Possible next steps:
 * add movies to favorites list from search
 * JQuery transitions for results and favorites
 * data integrity concerns
-* whatever else you may come up with
+* whatever else with which you may come up
