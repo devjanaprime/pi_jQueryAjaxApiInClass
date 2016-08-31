@@ -1,8 +1,8 @@
 OMDBAPI in class for Pi
 =======================
 
-Wed 8-31-2016 in-class JQuery, Ajax, AJAX, API example
-------------------------------------------------------
+Wed 8-31-2016 in-class JQuery, Ajax, AJAX, API example for Pi cohort
+--------------------------------------------------------------------
 
 Possible next steps:
 
